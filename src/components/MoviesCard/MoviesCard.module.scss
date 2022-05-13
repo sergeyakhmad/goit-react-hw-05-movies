@@ -1,0 +1,35 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+.info {
+  margin-left: 30px;
+}
+
+.title {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.userScore,
+.overview,
+.genres {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.overview,
+.genres {
+  margin-bottom: 10px;
+}
+
+.overviewText {
+  margin-bottom: 20px;
+}
+
+.item {
+  margin-right: 10px;
+}
